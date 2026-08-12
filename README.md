@@ -32,3 +32,4 @@ Also: [briq-core](https://github.com/cadenpiper/briq-core) (Solidity vault/oracl
 
 - [LinkedIn](https://www.linkedin.com/in/caden-piper-644b192b3/)
 - [GitHub](https://github.com/cadenpiper)
+
