@@ -4,4 +4,4 @@ Founder of [Particle Software Solutions](https://www.particlesoftwaresolutions.c
 
 **Stack:** TypeScript, React, Next.js, Node.js, Supabase, Solidity, Cadence
 
-[LinkedIn](https://www.linkedin.com/in/caden-piper) · [Particle on X](https://x.com/particle_hq)
+[LinkedIn](https://www.linkedin.com/in/caden-piper) · [X](https://x.com/cadensoldev) · [Particle on X](https://x.com/particle_hq)
